@@ -12,6 +12,7 @@ class Man  extends Person
 		super();
 		var s = this.name;
 		var k = this.age;
-		s = k.toString();
+			s = k.toString();
 	}
 }
+
